@@ -1,5 +1,4 @@
-import charactor.Hero;
-
+package charactor;
 public class Support extends Hero {
  
     public void heal() {
